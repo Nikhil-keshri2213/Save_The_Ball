@@ -1,5 +1,5 @@
 ![image](OpenningScreen.png)
-![image](MainScreen.png)
+![image](MainGameScreen.png)
 ![image](GameOverScreen.png)
 # "Save the ball"
 ## It is a java based game where i used Java Swing and AWT components.
